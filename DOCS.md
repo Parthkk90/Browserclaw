@@ -1,4 +1,4 @@
-# BrowserclawDocumentation
+# Browserclaw Documentation
 
 ## Table of Contents
 
